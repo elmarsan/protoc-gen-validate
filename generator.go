@@ -10,8 +10,8 @@ import (
 	"log"
 	"text/template"
 
-	"github.com/giftDad/protoc-gen-validate/templates"
-	"github.com/giftDad/protoc-gen-validate/templates/rule"
+	"github.com/elmarsan/protoc-gen-validate/templates"
+	"github.com/elmarsan/protoc-gen-validate/templates/rule"
 
 	"google.golang.org/protobuf/compiler/protogen"
 )

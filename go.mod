@@ -1,4 +1,4 @@
-module github.com/giftDad/protoc-gen-validate
+module github.com/elmarsan/protoc-gen-validate
 
 go 1.15
 
